@@ -1,0 +1,7 @@
+สร้าง 3 tables (at least) เปิดร้าน pizza ของตัวเอง
+  
+เขียนอย่างน้อย 3 queries ใช้ 
+JOIN, 
+subqueries, 
+WITH, 
+aggregate functions ยิ่งเขียนมากยิ่งเก่งมาก

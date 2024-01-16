@@ -1,2 +1,2 @@
 # test readme
-homework SQL
+homework in data science boot camp "DataRockie"
